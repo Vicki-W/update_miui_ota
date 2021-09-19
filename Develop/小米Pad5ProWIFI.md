@@ -1,0 +1,3 @@
+| 小米Pad5ProWIFI  开发版/内测版    |
+| ---- |
+| [miui_ELISH_21.9.17_accf622317_11.0.zip](https://hugeota.d.miui.com/21.9.17/miui_ELISH_21.9.17_accf622317_11.0.zip)    |
