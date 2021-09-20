@@ -19,7 +19,7 @@
 |小米平板5| [Develop](https://github.com/SakuraKyuo/update_miui_ota/blob/master/Develop/小米Pad5.md)| [Stable](https://github.com/SakuraKyuo/update_miui_ota/blob/master/Stable/小米Pad5.md)|
 |小米平板5 Pro 5G| [Develop](https://github.com/SakuraKyuo/update_miui_ota/blob/master/Develop/小米Pad5Pro5G.md)| [Stable](https://github.com/SakuraKyuo/update_miui_ota/blob/master/Stable/小米Pad5Pro5G.md)|
 |小米平板5 Pro WIFI| [Develop](https://github.com/SakuraKyuo/update_miui_ota/blob/master/Develop/小米Pad5ProWIFI.md)| [Stable](https://github.com/SakuraKyuo/update_miui_ota/blob/master/Stable/小米Pad5ProWIFI.md)|
-|Redmi K20| [Develop](ttps://github.com/SakuraKyuo/update_miui_ota/blob/master/Develop/RedmiK20.md)| [Stable](https://github.com/SakuraKyuo/update_miui_ota/blob/master/Stable/RedmiK20.md)|
+|Redmi K20| [Develop](https://github.com/SakuraKyuo/update_miui_ota/blob/master/Develop/RedmiK20.md)| [Stable](https://github.com/SakuraKyuo/update_miui_ota/blob/master/Stable/RedmiK20.md)|
 |Redmi K20 Pro| [Develop](https://github.com/SakuraKyuo/update_miui_ota/blob/master/Develop/RedmiK20Pro.md)| [Stable](https://github.com/SakuraKyuo/update_miui_ota/blob/master/Stable/RedmiK20Pro.md)|
 |Redmi K30| [Develop](https://github.com/SakuraKyuo/update_miui_ota/blob/master/Develop/RedmiK30.md)| [Stable](https://github.com/SakuraKyuo/update_miui_ota/blob/master/Stable/RedmiK30.md)|
 |Redmi K30 5G| [Develop](https://github.com/SakuraKyuo/update_miui_ota/blob/master/Develop/RedmiK305G.md)| [Stable](https://github.com/SakuraKyuo/update_miui_ota/blob/master/Stable/RedmiK305G.md)|
