@@ -28,5 +28,11 @@
 |Redmi K40| [Develop](https://github.com/SakuraKyuo/update_miui_ota/blob/master/Develop/RedmiK40.md)| [Stable](https://github.com/SakuraKyuo/update_miui_ota/blob/master/Stable/RedmiK40.md)|
 |Redmi K40 Pro| [Develop](https://github.com/SakuraKyuo/update_miui_ota/blob/master/Develop/RedmiK40Pro.md)| [Stable](https://github.com/SakuraKyuo/update_miui_ota/blob/master/Stable/RedmiK40Pro.md)|
 |Redmi K40 游戏增强版| [Develop](https://github.com/SakuraKyuo/update_miui_ota/blob/master/Develop/RedmiK40Gaming.md)| [Stable](https://github.com/SakuraKyuo/update_miui_ota/blob/master/Stable/RedmiK40Gaming.md)|
+|Redmi Note 9 4G| [Develop](https://github.com/SakuraKyuo/update_miui_ota/blob/master/Develop/RedmiNote94G.md)| [Stable](https://github.com/SakuraKyuo/update_miui_ota/blob/master/Stable/RedmiNote94G.md)|
+|Redmi Note 9 5G| [Develop](https://github.com/SakuraKyuo/update_miui_ota/blob/master/Develop/RedmiNote95G.md)| [Stable](https://github.com/SakuraKyuo/update_miui_ota/blob/master/Stable/RedmiNote95G.md)|
+|Redmi Note 10| [Develop](https://github.com/SakuraKyuo/update_miui_ota/blob/master/Develop/RedmiNote10.md)| [Stable](https://github.com/SakuraKyuo/update_miui_ota/blob/master/Stable/RedmiNote10.md)|
+|Redmi Note 10 Pro| [Develop](https://github.com/SakuraKyuo/update_miui_ota/blob/master/Develop/RedmiNote10Pro.md)| [Stable](https://github.com/SakuraKyuo/update_miui_ota/blob/master/Stable/RedmiNote10Pro.md)|
+|Redmi 10X 5G| [Develop](https://github.com/SakuraKyuo/update_miui_ota/blob/master/Develop/Redmi10X5G.md)| [Stable](https://github.com/SakuraKyuo/update_miui_ota/blob/master/Stable/Redmi10X5G.md)|
+|Redmi 10X Pro| [Develop](https://github.com/SakuraKyuo/update_miui_ota/blob/master/Develop/Redmi10XPro.md)| [Stable](https://github.com/SakuraKyuo/update_miui_ota/blob/master/Stable/Redmi10XPro.md)|
  ---- 
 此系统仅供个人学习、研究之用,请勿用于商业用途。
