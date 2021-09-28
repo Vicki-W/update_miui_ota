@@ -2,8 +2,6 @@
 | ---- |
 | [miui_CMI_21.9.27_a0431b91b8_11.0.zip](https://hugeota.d.miui.com/21.9.27/miui_CMI_21.9.27_a0431b91b8_11.0.zip)    |
 | [miui_CMI_21.9.24_271f8c0633_11.0.zip](https://hugeota.d.miui.com/21.9.24/miui_CMI_21.9.24_271f8c0633_11.0.zip)    |
-| []()    |
-| [miui_CMI_21.9.24_271f8c0633_11.0.zip](https://hugeota.d.miui.com/21.9.24/miui_CMI_21.9.24_271f8c0633_11.0.zip)    |
 | [miui_CMI_21.9.22_d3d2f55fd3_11.0.zip](https://hugeota.d.miui.com/21.9.22/miui_CMI_21.9.22_d3d2f55fd3_11.0.zip)    |
 | [miui_CMI_21.9.18_c5686101df_11.0.zip](https://hugeota.d.miui.com/21.9.18/miui_CMI_21.9.18_c5686101df_11.0.zip)    |
 | [miui_CMI_21.9.17_1c6ed0daa1_11.0.zip](https://hugeota.d.miui.com/21.9.17/miui_CMI_21.9.17_1c6ed0daa1_11.0.zip)    |
