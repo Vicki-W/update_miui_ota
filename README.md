@@ -14,6 +14,7 @@
 |小米11| [Develop](https://github.com/SakuraKyuo/update_miui_ota/blob/master/Develop/小米11.md)| [Stable](https://github.com/SakuraKyuo/update_miui_ota/blob/master/Stable/小米11.md)|
 |小米11 Ultra| [Develop](https://github.com/SakuraKyuo/update_miui_ota/blob/master/Develop/小米11Ultra.md)| [Stable](https://github.com/SakuraKyuo/update_miui_ota/blob/master/Stable/小米11Ultra.md)|
 |小米11青春版| [Develop](https://github.com/SakuraKyuo/update_miui_ota/blob/master/Develop/小米11青春版.md)| [Stable](https://github.com/SakuraKyuo/update_miui_ota/blob/master/Stable/小米11青春版.md)|
+|小米CIVI| [Develop](https://github.com/SakuraKyuo/update_miui_ota/blob/master/Develop/小米CIVI.md)| [Stable](https://github.com/SakuraKyuo/update_miui_ota/blob/master/Stable/小米CIVI.md)|
 |小米Mix Fold| [Develop](https://github.com/SakuraKyuo/update_miui_ota/blob/master/Develop/小米MixFold.md)| [Stable](https://github.com/SakuraKyuo/update_miui_ota/blob/master/Stable/小米MixFold.md)|
 |小米Mix4| [Develop](https://github.com/SakuraKyuo/update_miui_ota/blob/master/Develop/小米Mix4.md)| [Stable](https://github.com/SakuraKyuo/update_miui_ota/blob/master/Stable/小米Mix4.md)|
 |小米平板5| [Develop](https://github.com/SakuraKyuo/update_miui_ota/blob/master/Develop/小米Pad5.md)| [Stable](https://github.com/SakuraKyuo/update_miui_ota/blob/master/Stable/小米Pad5.md)|
