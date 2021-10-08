@@ -1,10 +1,9 @@
 | Redmi K30 5G  开发版/内测版    |
 | ---- |
 | [miui_PICASSO_21.9.28_084421d637_11.0.zip](https://hugeota.d.miui.com/21.9.28/miui_PICASSO_21.9.28_084421d637_11.0.zip)    |
-| [miui_PICASSO48M_21.9.28_ff4104d046_11.0.zip](https://hugeota.d.miui.com/21.9.28/miui_PICASSO48M_21.9.28_ff4104d046_11.0.zip)    |
-| [miui_PICASSO48M_21.9.27_2193852960_11.0.zip](https://hugeota.d.miui.com/21.9.27/miui_PICASSO48M_21.9.27_2193852960_11.0.zip)    |
-| [miui_PICASSO48M_21.9.24_940b7283d9_11.0.zip](https://hugeota.d.miui.com/21.9.24/miui_PICASSO48M_21.9.24_940b7283d9_11.0.zip)    |
-| [miui_PICASSO48M_21.9.22_c23a0f73fe_11.0.zip](https://hugeota.d.miui.com/21.9.22/miui_PICASSO48M_21.9.22_c23a0f73fe_11.0.zip)    |
+| [miui_PICASSO_21.9.27_e52ff723ec_11.0.zip](https://hugeota.d.miui.com/21.9.27/miui_PICASSO_21.9.27_e52ff723ec_11.0.zip)    |
+| [miui_PICASSO_21.9.24_1b6289809b_11.0.zip](https://hugeota.d.miui.com/21.9.24/miui_PICASSO_21.9.24_1b6289809b_11.0.zip)    |
+| [miui_PICASSO_21.9.22_dda098a656_11.0.zip](https://hugeota.d.miui.com/21.9.22/miui_PICASSO_21.9.22_dda098a656_11.0.zip)    |
 | [miui_PICASSO_21.9.15_da2a53d5fb_11.0.zip](https://hugeota.d.miui.com/21.9.15/miui_PICASSO_21.9.15_da2a53d5fb_11.0.zip)    |
 | [miui_PICASSO_21.9.14_0918c8a619_11.0.zip](https://hugeota.d.miui.com/21.9.14/miui_PICASSO_21.9.14_0918c8a619_11.0.zip)    |
 | [miui_PICASSO_21.9.13_f8ad778de3_11.0.zip](https://hugeota.d.miui.com/21.9.13/miui_PICASSO_21.9.13_f8ad778de3_11.0.zip)    |
