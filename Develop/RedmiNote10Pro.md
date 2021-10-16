@@ -1,5 +1,6 @@
 | Redmi Note 10 Pro  开发版/内测版    |
 | ---- |
+| [miui_CHOPIN_21.10.13_5c9d021012_11.0.zip](https://hugeota.d.miui.com/21.10.13/miui_CHOPIN_21.10.13_5c9d021012_11.0.zip)    |
 | []()    |
 | [miui_CHOPIN_21.10.13_5c9d021012_11.0.zip](https://hugeota.d.miui.com/21.10.13/miui_CHOPIN_21.10.13_5c9d021012_11.0.zip)    |
 | [miui_CHOPIN_21.10.12_032dd9a749_11.0.zip](https://hugeota.d.miui.com/21.10.12/miui_CHOPIN_21.10.12_032dd9a749_11.0.zip)    |

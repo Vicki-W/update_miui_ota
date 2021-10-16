@@ -1,5 +1,6 @@
 | Redmi K40 游戏增强版  开发版/内测版    |
 | ---- |
+| [miui_ARES_21.10.13_159790180c_11.0.zip](https://hugeota.d.miui.com/21.10.13/miui_ARES_21.10.13_159790180c_11.0.zip)    |
 | []()    |
 | [miui_ARES_21.10.13_159790180c_11.0.zip](https://hugeota.d.miui.com/21.10.13/miui_ARES_21.10.13_159790180c_11.0.zip)    |
 | [miui_ARES_21.10.12_91de0575e1_11.0.zip](https://hugeota.d.miui.com/21.10.12/miui_ARES_21.10.12_91de0575e1_11.0.zip)    |
