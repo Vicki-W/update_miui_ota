@@ -1,5 +1,6 @@
 | Redmi Note 10  开发版/内测版    |
 | ---- |
+| []()    |
 | [miui_CAMELLIA_21.10.20_e7753d398b_11.0.zip](https://hugeota.d.miui.com/21.10.20/miui_CAMELLIA_21.10.20_e7753d398b_11.0.zip)    |
 | [miui_CAMELLIA_21.10.19_2a8c0771db_11.0.zip](https://hugeota.d.miui.com/21.10.19/miui_CAMELLIA_21.10.19_2a8c0771db_11.0.zip)    |
 | [miui_CAMELLIA_21.10.13_da4de3441a_11.0.zip](https://hugeota.d.miui.com/21.10.13/miui_CAMELLIA_21.10.13_da4de3441a_11.0.zip)    |
